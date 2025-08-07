@@ -1,0 +1,6 @@
+age,income,loan_amount,credit_score,employment_status,default
+25,35000,5000,700,employed,0
+42,80000,12000,680,self-employed,0
+33,42000,8000,600,unemployed,1
+29,54000,10000,720,employed,0
+51,62000,20000,580,self-employed,1
